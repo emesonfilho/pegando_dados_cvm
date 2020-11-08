@@ -1,6 +1,6 @@
 # Pegando os dados dos balanços pela CVM
 
-Depois de baixar esses 2 códigos e colocar eles dentro de qualquer pasta, crie mais essas 2 lá dentro:
+Depois de baixar esses 2 códigos e colocar eles dentro de uma pasta com somente eles 2, crie mais essas 2 lá dentro:
 
 ![image](https://user-images.githubusercontent.com/48841448/98484303-4136ac80-21ed-11eb-82e9-16d218661b70.png)
 
